@@ -1,0 +1,48 @@
+Usage: ./generate_strategies <track_name> <stint_variable> <total_laps> <starting_lap_time>
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[40354,1],0]
+  Exit code:    1
+--------------------------------------------------------------------------
+Usage: ./generate_strategies <track_name> <stint_variable> <total_laps> <starting_lap_time>
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[40515,1],0]
+  Exit code:    1
+--------------------------------------------------------------------------
+Usage: ./generate_strategies <track_name> <stint_variable> <total_laps> <starting_lap_time>
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[40554,1],2]
+  Exit code:    1
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+There are not enough slots available in the system to satisfy the 8 slots
+that were requested by the application:
+  ./generate_strategies
+
+Either request fewer slots for your application, or make more slots available
+for use.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+There are not enough slots available in the system to satisfy the 16 slots
+that were requested by the application:
+  ./generate_strategies
+
+Either request fewer slots for your application, or make more slots available
+for use.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+There are not enough slots available in the system to satisfy the 32 slots
+that were requested by the application:
+  ./generate_strategies
+
+Either request fewer slots for your application, or make more slots available
+for use.
+--------------------------------------------------------------------------

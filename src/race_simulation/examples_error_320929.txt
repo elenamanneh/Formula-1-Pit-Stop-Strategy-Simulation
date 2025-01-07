@@ -1,0 +1,11 @@
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 0 on node teach07 exited on signal 9 (Killed).
+--------------------------------------------------------------------------
+Error: Track name 'Brazilian Grand Prix' not found in rates.json.
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[57918,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------

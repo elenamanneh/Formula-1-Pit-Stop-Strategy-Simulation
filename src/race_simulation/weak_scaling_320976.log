@@ -1,0 +1,30 @@
+rm -f stint_time_calculator generate_strategies gmon.out
+mpicxx -std=c++17 -Wall -fopenmp -Iinclude -o stint_time_calculator stint_time_calculator.cpp
+mpicxx -std=c++17 -Wall -fopenmp -Iinclude -o generate_strategies generate_strategies.cpp
+Running with 1 processes...
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+Running with 2 processes...
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+Running with 4 processes...
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+Running with 8 processes...
+Running with 16 processes...
+Running with 32 processes...
+
+Weak Scaling Results:
+Processes  Stint  Laps  Walltime
+1          10     55    1.843847449
+2          20     60    .714353628
+4          40     70    1.735961640
+8          80     90    .309864930
+16         160    130   .306397013
+32         320    210   .306916007

@@ -1,0 +1,492 @@
+{
+    "70th Anniversary Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.24164935064935064,
+            "Average Stint Length": 34.3
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.19789075630252104,
+            "Average Stint Length": 16.55
+        },
+        "SOFT": {
+            "Average Degradation": 0.14466666666666642,
+            "Average Stint Length": 8.0
+        }
+    },
+    "Abu Dhabi Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.27754567116759327,
+            "Average Stint Length": 35.782051282051285
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.3117073170731708,
+            "Average Stint Length": 19.46153846153846
+        },
+        "SOFT": {
+            "Average Degradation": 0.7129032258064518,
+            "Average Stint Length": 13.05
+        }
+    },
+    "Australian Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.7490582010582009,
+            "Average Stint Length": 41.19642857142857
+        },
+        "MEDIUM": {
+            "Average Degradation": 1.262952898550725,
+            "Average Stint Length": 14.043478260869565
+        },
+        "SOFT": {
+            "Average Degradation": 1.622083333333333,
+            "Average Stint Length": 4.684210526315789
+        }
+    },
+    "Austrian Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.36340262707024557,
+            "Average Stint Length": 39.0
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.4745687702265373,
+            "Average Stint Length": 29.61627906976744
+        },
+        "SOFT": {
+            "Average Degradation": 0.5948273381294965,
+            "Average Stint Length": 15.904761904761905
+        }
+    },
+    "Azerbaijan Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.3726597285067873,
+            "Average Stint Length": 36.205128205128204
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.4199866666666667,
+            "Average Stint Length": 12.327272727272728
+        },
+        "SOFT": {
+            "Average Degradation": 0.4205194805194806,
+            "Average Stint Length": 11.818181818181818
+        }
+    },
+    "Bahrain Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.336171686746988,
+            "Average Stint Length": 30.37037037037037
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.37349768875192607,
+            "Average Stint Length": 22.571428571428573
+        },
+        "SOFT": {
+            "Average Degradation": 0.43930493273542603,
+            "Average Stint Length": 22.301369863013697
+        }
+    },
+    "Belgian Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.10730496453900709,
+            "Average Stint Length": 24.53846153846154
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.21293565683646107,
+            "Average Stint Length": 19.914285714285715
+        },
+        "SOFT": {
+            "Average Degradation": 0.1659705882352941,
+            "Average Stint Length": 15.571428571428571
+        }
+    },
+    "British Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.2083723404255318,
+            "Average Stint Length": 25.64406779661017
+        },
+        "INTERMEDIATE": {
+            "Average Degradation": 0.29067326732673265,
+            "Average Stint Length": 12.31578947368421
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.42156872635561154,
+            "Average Stint Length": 24.72289156626506
+        },
+        "SOFT": {
+            "Average Degradation": 0.5898262295081967,
+            "Average Stint Length": 15.784313725490197
+        }
+    },
+    "Canadian Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.7752241183162688,
+            "Average Stint Length": 44.06818181818182
+        },
+        "INTERMEDIATE": {
+            "Average Degradation": 1.4860204918032784,
+            "Average Stint Length": 41.35
+        },
+        "MEDIUM": {
+            "Average Degradation": 1.3355971896955503,
+            "Average Stint Length": 20.28846153846154
+        },
+        "SOFT": {
+            "Average Degradation": 2.146,
+            "Average Stint Length": 6.0
+        },
+        "WET": {
+            "Average Degradation": 1.1614999999999998,
+            "Average Stint Length": 9.5
+        }
+    },
+    "Dutch Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.3397543391188251,
+            "Average Stint Length": 31.423076923076923
+        },
+        "INTERMEDIATE": {
+            "Average Degradation": 1.9148137254901962,
+            "Average Stint Length": 17.105263157894736
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.32992049689441016,
+            "Average Stint Length": 28.032258064516128
+        },
+        "SOFT": {
+            "Average Degradation": 0.6863661137440757,
+            "Average Stint Length": 30.847457627118644
+        },
+        "WET": {
+            "Average Degradation": 2.9490000000000016,
+            "Average Stint Length": 2.0
+        }
+    },
+    "Eifel Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.614019607843137,
+            "Average Stint Length": 25.75
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.6386495327102806,
+            "Average Stint Length": 25.157894736842106
+        },
+        "SOFT": {
+            "Average Degradation": 0.7291242937853107,
+            "Average Stint Length": 23.05263157894737
+        }
+    },
+    "Emilia Romagna Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.3039258620689656,
+            "Average Stint Length": 34.82857142857143
+        },
+        "INTERMEDIATE": {
+            "Average Degradation": 0.7982203947368423,
+            "Average Stint Length": 20.86842105263158
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.3594800000000001,
+            "Average Stint Length": 29.416666666666668
+        },
+        "SOFT": {
+            "Average Degradation": 0.9354625000000001,
+            "Average Stint Length": 16.5
+        },
+        "WET": {
+            "Average Degradation": 1.3710909090909091,
+            "Average Stint Length": 10.333333333333334
+        }
+    },
+    "French Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.3194,
+            "Average Stint Length": 31.82051282051282
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.46747507331378296,
+            "Average Stint Length": 19.205128205128204
+        },
+        "SOFT": {
+            "Average Degradation": 0.04100000000000072,
+            "Average Stint Length": 19.0
+        }
+    },
+    "Hungarian Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.1894797843665768,
+            "Average Stint Length": 39.37662337662338
+        },
+        "INTERMEDIATE": {
+            "Average Degradation": 0.642277777777778,
+            "Average Stint Length": 3.090909090909091
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.2701445497630333,
+            "Average Stint Length": 30.3953488372093
+        },
+        "SOFT": {
+            "Average Degradation": 0.523193308550186,
+            "Average Stint Length": 16.11764705882353
+        }
+    },
+    "Italian Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.3449719222462203,
+            "Average Stint Length": 26.775
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.32917706013363035,
+            "Average Stint Length": 22.41111111111111
+        },
+        "SOFT": {
+            "Average Degradation": 0.9892374100719425,
+            "Average Stint Length": 20.066666666666666
+        }
+    },
+    "Japanese Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.1981845574387947,
+            "Average Stint Length": 29.529411764705884
+        },
+        "INTERMEDIATE": {
+            "Average Degradation": 0.16776851851851848,
+            "Average Stint Length": 22.88888888888889
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.3307710437710437,
+            "Average Stint Length": 19.766666666666666
+        },
+        "SOFT": {
+            "Average Degradation": 0.2858028169014087,
+            "Average Stint Length": 11.3125
+        },
+        "WET": {
+            "Average Degradation": 0.24060000000000023,
+            "Average Stint Length": 5.166666666666667
+        }
+    },
+    "Las Vegas Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.2706912280701755,
+            "Average Stint Length": 35.69230769230769
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.3800425531914894,
+            "Average Stint Length": 12.972222222222221
+        },
+        "SOFT": {
+            "Average Degradation": 0.6448000000000007,
+            "Average Stint Length": 4.6
+        }
+    },
+    "Mexico City Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.31523106423777564,
+            "Average Stint Length": 36.0655737704918
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.31423050259965357,
+            "Average Stint Length": 33.64383561643836
+        },
+        "SOFT": {
+            "Average Degradation": 0.3111404255319149,
+            "Average Stint Length": 22.666666666666668
+        }
+    },
+    "Miami Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.36266341463414636,
+            "Average Stint Length": 33.258620689655174
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.4026252354048963,
+            "Average Stint Length": 22.29824561403509
+        },
+        "SOFT": {
+            "Average Degradation": 0.35523529411764715,
+            "Average Stint Length": 11.777777777777779
+        }
+    },
+    "Monaco Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.549496271748136,
+            "Average Stint Length": 44.078125
+        },
+        "INTERMEDIATE": {
+            "Average Degradation": 1.1705259259259257,
+            "Average Stint Length": 18.785714285714285
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.49702982456140343,
+            "Average Stint Length": 37.270270270270274
+        },
+        "SOFT": {
+            "Average Degradation": 0.4615232067510548,
+            "Average Stint Length": 28.263157894736842
+        },
+        "WET": {
+            "Average Degradation": 1.28875,
+            "Average Stint Length": 16.25
+        }
+    },
+    "Portuguese Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.13275438596491237,
+            "Average Stint Length": 31.88
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.3820035523978685,
+            "Average Stint Length": 34.89473684210526
+        },
+        "SOFT": {
+            "Average Degradation": 0.5712848837209303,
+            "Average Stint Length": 18.636363636363637
+        }
+    },
+    "Qatar Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.39119760479041943,
+            "Average Stint Length": 25.12121212121212
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.6151315789473683,
+            "Average Stint Length": 30.441176470588236
+        },
+        "SOFT": {
+            "Average Degradation": 0.6773557692307691,
+            "Average Stint Length": 14.166666666666666
+        }
+    },
+    "Sakhir Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.7256123595505616,
+            "Average Stint Length": 30.25
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.4861095505617978,
+            "Average Stint Length": 40.166666666666664
+        },
+        "SOFT": {
+            "Average Degradation": 0.5779423076923078,
+            "Average Stint Length": 31.785714285714285
+        }
+    },
+    "Saudi Arabian Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.4774794156706507,
+            "Average Stint Length": 29.746478873239436
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.6990205338809033,
+            "Average Stint Length": 17.84722222222222
+        },
+        "SOFT": {
+            "Average Degradation": 0.4155306122448979,
+            "Average Stint Length": 11.0
+        }
+    },
+    "Singapore Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.35122851562499996,
+            "Average Stint Length": 32.285714285714285
+        },
+        "INTERMEDIATE": {
+            "Average Degradation": 1.4242762430939229,
+            "Average Stint Length": 29.4
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.3607490421455938,
+            "Average Stint Length": 25.081632653061224
+        },
+        "SOFT": {
+            "Average Degradation": 0.4304607843137256,
+            "Average Stint Length": 18.714285714285715
+        }
+    },
+    "Spanish Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.1580781893004116,
+            "Average Stint Length": 29.12121212121212
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.21083543365455884,
+            "Average Stint Length": 28.688172043010752
+        },
+        "SOFT": {
+            "Average Degradation": 0.3785366548042705,
+            "Average Stint Length": 27.989795918367346
+        }
+    },
+    "Styrian Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.11120055710306409,
+            "Average Stint Length": 35.27272727272727
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.15585185185185185,
+            "Average Stint Length": 33.6
+        },
+        "SOFT": {
+            "Average Degradation": 0.5015592105263158,
+            "Average Stint Length": 30.541666666666668
+        }
+    },
+    "São Paulo Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.41027200000000014,
+            "Average Stint Length": 34.63636363636363
+        },
+        "INTERMEDIATE": {
+            "Average Degradation": 0.8993553530751709,
+            "Average Stint Length": 62.0
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.7692943396226413,
+            "Average Stint Length": 30.173076923076923
+        },
+        "SOFT": {
+            "Average Degradation": 0.5989469914040114,
+            "Average Stint Length": 38.611111111111114
+        },
+        "WET": {
+            "Average Degradation": 4.318000000000001,
+            "Average Stint Length": 3.6
+        }
+    },
+    "Turkish Grand Prix": {
+        "INTERMEDIATE": {
+            "Average Degradation": 0.33614010695187163,
+            "Average Stint Length": 51.575
+        },
+        "WET": {
+            "Average Degradation": 0.20372727272727237,
+            "Average Stint Length": 8.88888888888889
+        }
+    },
+    "Tuscan Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.8935510204081633,
+            "Average Stint Length": 14.142857142857142
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.9367500000000001,
+            "Average Stint Length": 16.142857142857142
+        },
+        "SOFT": {
+            "Average Degradation": 0.6806571428571427,
+            "Average Stint Length": 27.0
+        }
+    },
+    "United States Grand Prix": {
+        "HARD": {
+            "Average Degradation": 0.2575083251714007,
+            "Average Stint Length": 30.0
+        },
+        "MEDIUM": {
+            "Average Degradation": 0.39117669654289383,
+            "Average Stint Length": 23.57894736842105
+        },
+        "SOFT": {
+            "Average Degradation": 0.16469230769230755,
+            "Average Stint Length": 6.0
+        }
+    }
+}

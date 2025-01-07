@@ -1,0 +1,10 @@
+rm -f stint_time_calculator generate_strategies gmon.out
+mpicxx -std=c++17 -Wall -fopenmp -Iinclude -o stint_time_calculator stint_time_calculator.cpp
+mpicxx -std=c++17 -Wall -fopenmp -Iinclude -o generate_strategies generate_strategies.cpp
+
+Optimal Strategy:
+  Tyre: MEDIUM, Laps: 12
+  Tyre: MEDIUM, Laps: 12
+  Tyre: MEDIUM, Laps: 13
+  Tyre: MEDIUM, Laps: 13
+  Total Race Time: 4715.02 seconds

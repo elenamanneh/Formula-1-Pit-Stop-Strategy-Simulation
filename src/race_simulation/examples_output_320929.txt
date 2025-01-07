@@ -1,0 +1,36 @@
+rm -f stint_time_calculator generate_strategies gmon.out
+mpicxx -std=c++17 -Wall -fopenmp -Iinclude -o stint_time_calculator stint_time_calculator.cpp
+mpicxx -std=c++17 -Wall -fopenmp -Iinclude -o generate_strategies generate_strategies.cpp
+Running simulation for Belgian Grand Prix with 44 laps and starting lap time 110.0 seconds
+
+Optimal Strategy:
+  Tyre: HARD, Laps: 22
+  Tyre: HARD, Laps: 22
+  Total Race Time: 4933.79 seconds
+Running simulation for Italian Grand Prix with 53 laps and starting lap time 90.0 seconds
+
+Optimal Strategy:
+  Tyre: MEDIUM, Laps: 13
+  Tyre: MEDIUM, Laps: 13
+  Tyre: MEDIUM, Laps: 13
+  Tyre: MEDIUM, Laps: 14
+  Total Race Time: 5000.21 seconds
+Running simulation for Japanese Grand Prix with 53 laps and starting lap time 89.0 seconds
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+Running simulation for Monaco Grand Prix with 78 laps and starting lap time 72.0 seconds
+
+Optimal Strategy:
+  Tyre: SOFT, Laps: 18
+  Tyre: SOFT, Laps: 18
+  Tyre: SOFT, Laps: 18
+  Tyre: SOFT, Laps: 18
+  Tyre: SOFT, Laps: 6
+  Total Race Time: 6121.79 seconds
+Running simulation for Brazilian Grand Prix with 71 laps and starting lap time 80.0 seconds
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
